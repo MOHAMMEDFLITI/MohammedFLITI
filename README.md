@@ -7,6 +7,5 @@
 - [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohammed)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/medfliti//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://web.facebook.com/profile.php?id=100069779055867)  
 
