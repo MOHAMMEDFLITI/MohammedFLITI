@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Med</h1>
 <h3 align="center">A passionate Flutter developer from Algeria</h3>
-<img align="right" width ="400" src="https://c.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif" alt="mohammedfliti" />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammedfliti&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedfliti" /> </p>
